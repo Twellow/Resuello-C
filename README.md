@@ -1,5 +1,5 @@
-Designed by, Christopher Resuello; 
-Module ENG6200 Final Year Project, Birmingham City University;
+Designed by, Christopher Resuello
+Module ENG6200 Final Year Project, Birmingham City University
 
 This is the Manager and Operator JSON Flow for each of them
 they are accessed through Node-RED import function.
